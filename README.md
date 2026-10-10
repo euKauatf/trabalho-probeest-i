@@ -10,6 +10,7 @@
 
 ## 📍 Intgrantes da Equipe:
 
+**Ana Beatriz Moresi**;\
 **Camilla Marchezini**;\
 **Catharina de Oliveira**;\
 **Filipe Coutinho**;\
