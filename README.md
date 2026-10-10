@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="../trabalho-propeest-i/assets/images/Captura de tela 2026-10-10 170206.png">
+<img src="../trabalho-propeest-i/assets/images/tela.png">
 
 > Analisador Estatístico é um projeto desenvolvido para a disciplina de **Probabilidade e Estatística**. O objetivo era construir uma aplicação de linha de comando (CLI) em Python que funcione como um motor de **estatística descritiva**, processando dados digitados no terminal ou lidos de um arquivo `.csv`.
 
